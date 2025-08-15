@@ -8,5 +8,5 @@
 - Created `.env` configuration for **secure DB credentials** and optimized connection handling.  
 - Debugged **GeoJSON mapping** to ensure accurate state rendering.
 
-Name: Manju R
-Batch: AIML-S-WE-T-B16
+- Name: Manju R
+- Batch: AIML-S-WE-T-B16
